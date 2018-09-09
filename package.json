@@ -1,0 +1,9 @@
+{
+  "name": "lanxin_chart",
+  "version": "1.0.0",
+  "description": "lanxin chart ",
+  "main": "index.js",
+  "repository": "https://github.com/liushuxin/lanxin_chart.git",
+  "author": "liushuxin <shuxinliu2016@gmail.com>",
+  "license": "MIT"
+}
